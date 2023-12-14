@@ -38,8 +38,10 @@
                     <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
+                    <key>subtitle</key>
+                    <string>渠道云销售助手</string>
                     <key>title</key>
-                    <string>23</string>
+                    <string>渠道云销售助手</string>
                 </dict>
             </dict>
         </array>
